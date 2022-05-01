@@ -1265,6 +1265,22 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Restrat
       objectReference: {fileID: 0}
+    - target: {fileID: 6709260447944424082, guid: 3d8a348344cc6fe47b9eaa83b8662d67, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7476336856293232128}
+    - target: {fileID: 6709260447944424082, guid: 3d8a348344cc6fe47b9eaa83b8662d67, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: MainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 6709260448729411312, guid: 3d8a348344cc6fe47b9eaa83b8662d67, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7476336856293232128}
+    - target: {fileID: 6709260448729411312, guid: 3d8a348344cc6fe47b9eaa83b8662d67, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Restrat
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d8a348344cc6fe47b9eaa83b8662d67, type: 3}
 --- !u!1 &556711354 stripped
@@ -1474,6 +1490,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 214873780500713741, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7476336856293232127}
+    - target: {fileID: 214873780500713741, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: NextLevel
+      objectReference: {fileID: 0}
     - target: {fileID: 1115050335401942423, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -1529,6 +1553,10 @@ PrefabInstance:
     - target: {fileID: 1115050335587631961, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
       propertyPath: m_Name
       value: LevelCompleteUI (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1115050335587631961, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
