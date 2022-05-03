@@ -784,7 +784,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: BRICK MENTION
+  m_text: BRICK MANTION
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 994832c6660c6cf4a9cff928211670b6, type: 2}
   m_sharedMaterial: {fileID: -6606275282071012241, guid: 994832c6660c6cf4a9cff928211670b6, type: 2}
