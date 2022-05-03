@@ -143,7 +143,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &33555157
 Transform:
   m_ObjectHideFlags: 0
@@ -348,6 +348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBrick
       objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -412,6 +416,10 @@ PrefabInstance:
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Name
       value: BlueBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
@@ -784,7 +792,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -912,6 +920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBrick
       objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1035,6 +1047,10 @@ PrefabInstance:
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Name
       value: BlueBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
@@ -1251,7 +1267,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -1321,7 +1337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -1445,6 +1461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBrick
       objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1538,11 +1558,6 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2319010155132442424, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
   m_PrefabInstance: {fileID: 381224114}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &751718326 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2319010155132442424, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
-  m_PrefabInstance: {fileID: 262755657}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &781766889
 PrefabInstance:
@@ -1931,7 +1946,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1047478103
 Transform:
   m_ObjectHideFlags: 0
@@ -2183,7 +2198,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -2333,6 +2348,10 @@ PrefabInstance:
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Name
       value: BlueBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
@@ -2487,6 +2506,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBrick
       objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2554,7 +2577,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -3064,6 +3087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBrick
       objectReference: {fileID: 0}
+    - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6491305189021145661, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -3246,7 +3273,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1779285165}
-  - {fileID: 751718326}
+  - {fileID: 2319010154887512689}
   - {fileID: 1008574421}
   - {fileID: 53898848}
   - {fileID: 1494451931}
@@ -3332,7 +3359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184276950559600882, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
@@ -3402,6 +3429,11 @@ PrefabInstance:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1115050335587631961, guid: 6ed6c8635bfc6ee4f87dfb3e20442ace, type: 3}
   m_PrefabInstance: {fileID: 5969039548749049317}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2319010154887512689 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2319010155132442424, guid: 2a8c83769c013bc49ab5fb002954086a, type: 3}
+  m_PrefabInstance: {fileID: 262755657}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5969039548749049317
 PrefabInstance:
